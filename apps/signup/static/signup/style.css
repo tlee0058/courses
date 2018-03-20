@@ -1,0 +1,38 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input, textarea {
+    display: inline-block;
+    vertical-align: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+#add_button {
+    background-color : green;
+    color: white;
+    
+}
+
+table {
+    border: 2px solid black;
+
+}
+thead {
+    background-color: grey;
+}
+#no, #yes {
+    display: inline;
+    box-shadow: 2px 2px 2px black;
+}
+#yes {
+    
+    vertical-align: top;
+    background-color: red;
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+
